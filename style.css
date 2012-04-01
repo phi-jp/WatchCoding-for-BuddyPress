@@ -120,7 +120,7 @@ body.error404 div#container,
 body.activation div#container,
 body.search-results div#container,  
 body.search-no-results div#container {
-	width: 960px;
+	width: 1080px;
 	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.27), 0 0 40px rgba(0,0,0,0.06) inset;
 	-moz-box-shadow: 0 1px 4px rgba(0,0,0,0.27), 0 0 40px rgba(0,0,0,0.06) inset;
 	box-shadow: 0 1px 4px rgba(0,0,0,0.27), 0 0 40px rgba(0,0,0,0.06) inset;
