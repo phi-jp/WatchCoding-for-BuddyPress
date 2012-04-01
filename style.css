@@ -59,9 +59,10 @@ div.generic-button a,
 span.user-nicename, 
 #item-header-content span.highlight, 
 body .navigation a 
-{ 
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+{
+	font-family: "Meiryo", "メイリオ", "ヒラギノ角ゴ Pro W3", sans-serif;
 }
+
 #header #search-bar .padder,
 #header #navigation,
 #bp-before-activity-post-form,
